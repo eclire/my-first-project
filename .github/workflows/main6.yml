@@ -43,7 +43,7 @@ jobs:
           VENUE_CODE: 'PRHN'
           TARGET_MOVIE: 'venge'
           TARGET_SCREEN: '3'
-          IGNORE_ROWS: 'A'
+          IGNORE_ROWS: 'I,J,K,L,M,N'
         run: |
           mkdir -p ~/.fast-cache/warp-debs ~/.fast-cache/fonts
 
