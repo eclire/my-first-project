@@ -1,4 +1,23 @@
 {
-  "20261217": {},
+  "20261217": {
+    "14101": {
+      "time": "08:25 AM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "PXL Audi 6",
+      "attributes": "PXL"
+    },
+    "14102": {
+      "time": "12:00 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "PXL Audi 6",
+      "attributes": "PXL"
+    },
+    "14104": {
+      "time": "07:10 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "PXL Audi 6",
+      "attributes": "PXL"
+    }
+  },
   "20261218": {}
 }
