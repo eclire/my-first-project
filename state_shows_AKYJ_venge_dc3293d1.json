@@ -1,4 +1,35 @@
 {
-  "20261219": {},
+  "20261219": {
+    "35439": {
+      "time": "08:10 AM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "SCREEN 1",
+      "attributes": ""
+    },
+    "35441": {
+      "time": "03:20 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "SCREEN 1",
+      "attributes": ""
+    },
+    "35443": {
+      "time": "10:30 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "SCREEN 1",
+      "attributes": ""
+    },
+    "35440": {
+      "time": "11:45 AM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D)(Telugu) - Telugu",
+      "screenName": "SCREEN 1",
+      "attributes": ""
+    },
+    "35442": {
+      "time": "06:55 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D)(Telugu) - Telugu",
+      "screenName": "SCREEN 1",
+      "attributes": ""
+    }
+  },
   "20261220": {}
 }
