@@ -43,7 +43,7 @@ jobs:
           VENUE_CODE: 'ALUC'
           TARGET_MOVIE: 'venge'
           TARGET_SCREEN: '2'
-          IGNORE_ROWS: 'I,J,K,L,M,N,O,P,Q'
+          IGNORE_ROWS: 'H,I,J,K,L,M'
         run: |
           mkdir -p ~/.fast-cache/warp-debs ~/.fast-cache/fonts
 
