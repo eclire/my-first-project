@@ -19,5 +19,24 @@
       "attributes": "PXL"
     }
   },
-  "20261220": {}
+  "20261220": {
+    "14296": {
+      "time": "08:25 AM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "PXL Audi 6",
+      "attributes": "PXL"
+    },
+    "14297": {
+      "time": "12:00 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "PXL Audi 6",
+      "attributes": "PXL"
+    },
+    "14298": {
+      "time": "07:10 PM",
+      "eventName": "Avengers: Doomsday (MS-Infinity Vsn 3D) - English",
+      "screenName": "PXL Audi 6",
+      "attributes": "PXL"
+    }
+  }
 }
